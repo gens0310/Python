@@ -1,5 +1,5 @@
-# 파이썬 강좌
+# Python
 [파이썬 코딩도장](https://dojang.io/course/view.php?id=7)
 
-## 멀티캠퍼스
-### 빅데이터 기반 지능형 서비스 개발(2021.07.26. ~ 2021.12.09.)
+## Multicampus(Samsung)
+### Develop Intelligent Services Based on Big Data(2021.07.26. ~ 2021.12.09.)
